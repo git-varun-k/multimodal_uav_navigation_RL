@@ -200,4 +200,4 @@ uav_navigation_RL/
 
 MS Data Science Project
 
-**Autonomous UAV Navigation using Reinforcement Learning and Multimodal Sensor Fusion**
+**A Reinforcement Learning Framework for Domain-Adaptive UAV Navigation Using RGB-Depth Representation Learning**

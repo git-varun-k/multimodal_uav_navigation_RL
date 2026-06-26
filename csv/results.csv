@@ -1,0 +1,7 @@
+sequence,method,accuracy,reward,blocked_frames
+factory,baseline,0.7528,1279.0,207
+factory,adapted,0.8716,1634.0,207
+p004,baseline,0.8901,1119.5,102
+p004,adapted,0.9166,1160.0,102
+p006,baseline,0.7232,418.0,18
+p006,adapted,0.8712,580.0,18
